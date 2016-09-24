@@ -21,6 +21,12 @@ namespace Link.Employee.DataStore.Contracts.Interfaces
         Models.Employee GetEmployee(int employeeId);
         Models.Employee AddEmployee(Models.Employee employee);
 
+
+        // ====================================================================
+        // begin tran, commit and rollback only applies to write Data Store
+        // not a big fan of leaving this here, but couldn't figure out to 
+        // get the unit work pattern integrated properly without crossing boundaries/concerns
+        // ====================================================================
         void BeginTransaction();
         void Commit();
         void Rollback();
