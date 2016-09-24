@@ -1,0 +1,4 @@
+\\OPS-NAS01\PrivateRoot\Home\iwan\My Documents\Visual Studio 2015\Projects\UserEF\Link.Employee.DTO\bin\Debug\Link.Employee.DTO.dll
+\\OPS-NAS01\PrivateRoot\Home\iwan\My Documents\Visual Studio 2015\Projects\UserEF\Link.Employee.DTO\bin\Debug\Link.Employee.DTO.pdb
+\\OPS-NAS01\PrivateRoot\Home\iwan\My Documents\Visual Studio 2015\Projects\UserEF\Link.Employee.DTO\obj\Debug\Link.Employee.DTO.dll
+\\OPS-NAS01\PrivateRoot\Home\iwan\My Documents\Visual Studio 2015\Projects\UserEF\Link.Employee.DTO\obj\Debug\Link.Employee.DTO.pdb

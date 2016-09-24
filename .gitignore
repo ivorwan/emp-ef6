@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Link.Employee.Repos/bin/Debug
+/Link.Employee.Console/bin/Debug
+/Link.Employee.Console/obj/Debug
+/Link.Employee.DTO/bin/Debug
+/Link.Employee.Repos/obj/Debug
+/Link.Employee.Repos.Contracts/bin/Debug
+/Link.Employee.Repos.Contracts/obj/Debug
+/Link.Employee.Service/bin/Debug
+/Link.Employee.Service/obj/Debug
+/Link.Employee.Service.Contracts/bin/Debug
+/Link.Employee.Service.Contracts/obj/Debug
+/Link.Employees.DataStore/bin/Debug
+/Link.Employees.DataStore/obj/Debug
+/Link.Employees.DataStore.Contracts/bin/Debug
+/Link.Employees.DataStore.Contracts/obj/Debug
+/packages/EntityFramework.6.1.3
+/UserEF/bin/Debug
+/UserEF/obj/Debug
